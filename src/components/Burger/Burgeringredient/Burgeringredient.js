@@ -2,7 +2,7 @@ import React from 'react'
 import propTypes from 'prop-types'
 import classes from './Burgeringredient.css'
 
-
+ 
 const BurgerIngredient = (props) => {
     let ingredient = null;
 
